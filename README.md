@@ -66,6 +66,13 @@ The project demonstrates how modern DevOps teams can automate infrastructure pro
 
 ---
 
+## Screenshots & Demo
+
+### AWS Infrastructure
+<img width="1902" height="797" alt="1 EC2 instance" src="https://github.com/user-attachments/assets/35fd0698-8928-46fe-8752-153313f5f73f" />
+
+
+
 ## Project Overview
 
 This project combines infrastructure, application delivery, Kubernetes orchestration, GitOps, and monitoring into a single DevOps platform.
