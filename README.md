@@ -45,12 +45,12 @@ The project demonstrates how modern DevOps teams can automate infrastructure pro
 |   |                                                        |   |
 |   |   +-------------+      +---------------------------+   |   |
 |   |   |   Argo CD   |----->| Kubernetes Application    |   |   |
-|   |   |   GitOps    |      | Deployment / Service     |   |   |
+|   |   |   GitOps    |      | Deployment / Service      |   |   |
 |   |   +-------------+      +---------------------------+   |   |
 |   |                                                        |   |
 |   |   +-------------+      +---------------------------+   |   |
-|   |   | Prometheus  |----->|        Grafana             |   |   |
-|   |   | Monitoring  |      | Dashboards                 |   |   |
+|   |   | Prometheus  |----->|        Grafana            |   |   |
+|   |   | Monitoring  |      | Dashboards                |   |   |
 |   |   +-------------+      +---------------------------+   |   |
 |   |                                                        |   |
 |   +--------------------------------------------------------+   |
@@ -665,12 +665,6 @@ The project demonstrates how infrastructure, application delivery, Kubernetes, s
 ## Author
 
 **Udeesha Jayendra**
-
-**BICT Honours Undergraduate | Aspiring DevOps, Cloud & Network Engineer**
-
-GitHub: `https://github.com/UdeeshaJayendra`
-
-LinkedIn: `https://www.linkedin.com/in/udeesha-rathnayaka-2b1b10362/`
 
 ---
 
