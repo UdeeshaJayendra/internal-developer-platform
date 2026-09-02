@@ -57,11 +57,11 @@ The project demonstrates how modern DevOps teams can automate infrastructure pro
 |                                                                |
 +----------------------------------------------------------------+
 
-        Terraform
-           |
-           v
-   AWS Infrastructure
-   VPC / EC2 / IAM / ECR
+                    Terraform
+                        |
+                        v
+                AWS Infrastructure
+              VPC / EC2 / IAM / ECR
 ```
 
 ---
