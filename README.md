@@ -87,7 +87,6 @@ Terraform-provisioned AWS infrastructure including EC2, VPC, IAM and ECR.
 <img width="1912" height="925" alt="7  Argo CD" src="https://github.com/user-attachments/assets/6cd88294-d1c5-423b-82b5-a8e97aabe41f" />
 <img width="1917" height="900" alt="8  Argo CD" src="https://github.com/user-attachments/assets/3c438412-1de4-4bfc-93d8-21b317a82ffc" />
 <img width="1917" height="902" alt="9  Argo CD" src="https://github.com/user-attachments/assets/aaa547c2-6ed9-481c-bb17-c26ce1c84da5" />
-Argo CD automatically synchronizes the Kubernetes cluster with the Git repository.
 
 
 
