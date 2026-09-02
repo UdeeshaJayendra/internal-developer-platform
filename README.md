@@ -76,8 +76,12 @@ The project demonstrates how modern DevOps teams can automate infrastructure pro
 <img width="1917" height="827" alt="5 IAM Roles" src="https://github.com/user-attachments/assets/9234fa9b-9589-4552-a5ed-dfaefb44f7de" />
 Terraform-provisioned AWS infrastructure including EC2, VPC, IAM and ECR.
 
+
+
 ### CI/CD Pipeline
 <img width="1902" height="841" alt="6 CI CD" src="https://github.com/user-attachments/assets/8199c630-63f1-4a9b-87d6-9604c05d3b3b" />
+
+
 
 ### GitOps with Argo CD
 <img width="1912" height="925" alt="7  Argo CD" src="https://github.com/user-attachments/assets/6cd88294-d1c5-423b-82b5-a8e97aabe41f" />
@@ -85,14 +89,22 @@ Terraform-provisioned AWS infrastructure including EC2, VPC, IAM and ECR.
 <img width="1917" height="902" alt="9  Argo CD" src="https://github.com/user-attachments/assets/aaa547c2-6ed9-481c-bb17-c26ce1c84da5" />
 Argo CD automatically synchronizes the Kubernetes cluster with the Git repository.
 
+
+
 ### Docker Image Creation & Local Container Packaging
 <img width="1917" height="951" alt="10  Docker Image Creating" src="https://github.com/user-attachments/assets/1f0dbec2-4a27-4fe6-bcb1-8ff837d09bdc" />
+
+
 
 ### Production Application Deployment & Ingress Verification with HTTPS
 <img width="1917" height="958" alt="11 Production Application Deployment   Ingress Verification with HTTPS" src="https://github.com/user-attachments/assets/cfb1d10d-cc85-412d-9714-e56af9270c8a" />
 
+
+
 ### Monitoring (Prometheus + Grafana)
 <img width="1917" height="842" alt="12 Monitoring (Prometheus + Grafana)" src="https://github.com/user-attachments/assets/806a5ed2-a2e7-4661-b0b1-7215520f5319" />
+
+
 
 ## Project Overview
 
