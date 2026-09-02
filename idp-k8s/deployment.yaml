@@ -1,0 +1,30 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: idp-app
+  labels:
+    app: idp-app
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: idp-app
+  template:
+    metadata:
+      labels:
+        app: idp-app
+    spec:
+      containers:
+        - name: idp-app
+          image: 216453078762.dkr.ecr.ap-south-1.amazonaws.com/idp-app:v1
+          ports:
+            - containerPort: 3000
+          resources:
+            requests:
+              memory: "64Mi"
+              cpu: "50m"
+            limits:
+              memory: "128Mi"
+              cpu: "200m"
+      imagePullSecrets:
+        - name: ecr-secret

@@ -1,0 +1,52 @@
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# AWS credentials
+.aws/
+credentials
+config
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Kubernetes secrets
+**/*secret*.yaml
+**/*secret*.yml
+
+# SSH / private keys
+*.pem
+*.key
+id_rsa
+id_rsa.pub
+
+# Logs
+*.log
+
+# Node.js
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Build outputs
+**/dist/
+**/build/
+
+# IDE / OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

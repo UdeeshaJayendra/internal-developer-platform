@@ -1,0 +1,23 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: idp-app-ingress
+  annotations:
+    cert-manager.io/cluster-issuer: letsencrypt-prod
+spec:
+  ingressClassName: traefik
+  rules:
+    - host: 13-201-53-27.sslip.io
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: idp-app-service
+                port:
+                  number: 3000
+  tls:
+    - hosts:
+        - 13-201-53-27.sslip.io
+      secretName: idp-app-tls
