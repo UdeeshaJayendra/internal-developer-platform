@@ -706,7 +706,3 @@ The project demonstrates how infrastructure, application delivery, Kubernetes, s
 **Udeesha Jayendra**
 
 ---
-
-## License
-
-This project is intended for educational and portfolio purposes.
