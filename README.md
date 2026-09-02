@@ -69,9 +69,11 @@ The project demonstrates how modern DevOps teams can automate infrastructure pro
 ## Screenshots & Demo
 
 ### AWS Infrastructure
-<img width="1902" height="797" alt="1 EC2 instance" src="https://github.com/user-attachments/assets/35fd0698-8928-46fe-8752-153313f5f73f" />
-
-
+<img width="1902" height="797" alt="1 EC2 instance" src="https://github.com/user-attachments/assets/fe7f9af9-b197-4daf-b039-98d616601775" />
+<img width="1917" height="836" alt="2 ECR" src="https://github.com/user-attachments/assets/054f1008-18a9-4f96-a655-b8f9c0f2a640" />
+<img width="1917" height="835" alt="3 Security Groups" src="https://github.com/user-attachments/assets/328a1733-eefd-487f-a28f-6002064df584" />
+<img width="1917" height="881" alt="4 VPC" src="https://github.com/user-attachments/assets/a7a11d08-65cd-48f2-b663-1f19f909a908" />
+<img width="1917" height="827" alt="5 IAM Roles" src="https://github.com/user-attachments/assets/9234fa9b-9589-4552-a5ed-dfaefb44f7de" />
 
 ## Project Overview
 
