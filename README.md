@@ -2,7 +2,7 @@
 
 A production-inspired **Internal Developer Platform (IDP)** built on AWS using **Terraform, Kubernetes, Docker, GitHub Actions, Argo CD, Prometheus, and Grafana**.
 
-The project demonstrates how modern DevOps teams can automate infrastructure provisioning, application delivery, GitOps-based Kubernetes deployments, monitoring, and cloud security through a single workflow.
+The project demonstrates how modern DevOps teams can automate infrastructure provisioning, application delivery, GitOps-based Kubernetes deployments, monitoring, and cloud security through a single workflow
 
 > **Project goal:** Build a lightweight, self-hosted developer platform that provides an automated path from source code to a running, monitored application on Kubernetes.
 
