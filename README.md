@@ -9,7 +9,7 @@ The project demonstrates how modern DevOps teams can automate infrastructure pro
 ---
 
 ## Architecture
-<img width="1408" height="768" alt="3" src="https://github.com/user-attachments/assets/f6c8ccfb-0bbe-46ee-9553-e1b8c85c5a68" />
+<img width="1122" height="1402" alt="02" src="https://github.com/user-attachments/assets/02ecaca4-dcc5-4106-8a6f-152b8f3e0b1f" />
 
 ---
 
